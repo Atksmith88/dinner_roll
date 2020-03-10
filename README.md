@@ -8,11 +8,4 @@ Second Note: Something New is pretty self-explanatory, it means ya'll get to go 
 
 Final Note: These lists were created for the North Austin Texas area. If you want to change the lists, you can clone your own copy of this repository and change the lists within the lists.py file.
 
-
-```python
-from lists import *
-import random
-from roller_function import roll
-from IPython.display import clear_output
-roll()
-```
+To run the roller, head over to <b>[this notebook](README.ipynb)</b>, enjoy!
